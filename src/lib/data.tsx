@@ -46,6 +46,7 @@ export const projectsData = [
     ],
     links: {
       preview: '#',
+      github: '#',
     },
   },
   {
@@ -61,6 +62,7 @@ export const projectsData = [
     ],
     links: {
       preview: '#',
+      github: '#',
     },
   },
   {
@@ -76,6 +78,7 @@ export const projectsData = [
     ],
     links: {
       preview: '#',
+      github: '#',
     },
   },
   {
@@ -92,6 +95,7 @@ export const projectsData = [
     ],
     links: {
       preview: '#',
+      github: '#',
     },
   },
 ] as const;
