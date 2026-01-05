@@ -9,7 +9,7 @@ import { fonts } from '@/lib/fonts';
 import { cn } from '@/lib/utils';
 
 const RootLayout = ({ children }: PropsWithChildren) => {
-  const siteUrl = 'https://your-portfolio-url.vercel.app'; // update later
+  const siteUrl = 'https://portfolio-omega-nine-94k6f0ikcc.vercel.app/'; // update later
   const logoPath = `${siteUrl}/favicon/logo.png`;
 
   const structuredData = [
