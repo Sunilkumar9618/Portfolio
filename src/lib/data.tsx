@@ -45,8 +45,8 @@ export const projectsData = [
       'REST APIs',
     ],
     links: {
-      preview: '#',
-      github: '#',
+      preview: 'https://codezap-2025.vercel.app/',
+      github: 'https://github.com/Sunilkumar9618/Urudhunai/tree/main/CODEZAP2025-main',
     },
   },
   {
@@ -61,8 +61,8 @@ export const projectsData = [
       'REST APIs',
     ],
     links: {
-      preview: '#',
-      github: '#',
+      preview: 'https://vectorshift-task.vercel.app/',
+      github: 'https://github.com/Sunilkumar9618/Visual-ai-workflow-builder',
     },
   },
   {
@@ -77,8 +77,8 @@ export const projectsData = [
       'MongoDB',
     ],
     links: {
-      preview: '#',
-      github: '#',
+      preview: 'https://github.com/Sunilkumar9618/ambient-flow-create',
+      github: 'https://github.com/Sunilkumar9618/ambient-flow-create',
     },
   },
   {
@@ -94,8 +94,8 @@ export const projectsData = [
       'MERN Stack',
     ],
     links: {
-      preview: '#',
-      github: '#',
+      preview: 'https://github.com/Sunilkumar9618?tab=repositories',
+      github: 'https://github.com/Sunilkumar9618?tab=repositories',
     },
   },
 ] as const;
